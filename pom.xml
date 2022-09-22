@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.145.8.197:8081/repository/maven-webapp-demo/</url>
+	      <url>http://52.201.150.106:8081/repository/google-app-releas/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.145.8.197:8081/repository/maven-webappsnapdemo/</url>
+	      <url>http://52.201.150.106:8081/repository/google-app-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
